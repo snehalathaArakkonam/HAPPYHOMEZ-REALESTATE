@@ -71,3 +71,94 @@ HAPPYHOMEZ is a modern, responsive real estate website designed to provide users
 git clone https://github.com/snehalathaArakkonam/HAPPYHOMEZ-REALESTATE.git
 cd HAPPYHOMEZ-REALESTATE
 ```
+---
+
+## 📈 Future Enhancements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔍 Property%20Filters-Coming%20Soon-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📩 Contact%20Form-In%20Progress-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔐 Authentication-Planned-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🗺️ Google%20Maps-Integration-green?style=for-the-badge" />
+</p>
+
+---
+
+## 👩‍💻 Developer
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Name-Sneha%20Arakkonam-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Tirupati%2C%20India-blue?style=for-the-badge" />
+</p>
+
+<p align="center">
+  📍 Tirupati, Andhra Pradesh, India - 517501 <br/>
+  📞 9492839837 <br/>
+  📧 asnehalatha363@gmail.com
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sneha-arakkonam">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://github.com/snehalathaArakkonam">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://snexpf.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome" />
+  </a>
+
+  <a href="mailto:asnehalatha363@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats (Live)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehalathaArakkonam&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehalathaArakkonam&theme=tokyonight" />
+</p>
+
+---
+
+## 👀 Profile Views Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=snehalathaArakkonam&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
+
+---
+
+## ⭐ Support
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⭐ Support%20This%20Project-Give%20a%20Star-yellow?style=for-the-badge" />
+</p>
+
+If you like this project, consider giving it a ⭐ on GitHub!
+
+---
+
+## 📄 License
+
+This project is licensed under the **Apache License 2.0**.
+
+---
+
+## ⚡ Fun Touch (Typing Animation)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+HAPPYHOMEZ+🏡;Real+Estate+Made+Simple;Built+by+Sneha+Arakkonam;Frontend+Developer+🚀" />
+</p>
+
+---
