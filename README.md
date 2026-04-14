@@ -155,7 +155,7 @@ This project is licensed under the **Apache License 2.0**.
 
 ---
 
-## ⚡ Fun Touch (Typing Animation)
+## ⚡ (ABOUT ME)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+HAPPYHOMEZ+🏡;Real+Estate+Made+Simple;Built+by+Sneha+Arakkonam;Frontend+Developer+🚀" />
