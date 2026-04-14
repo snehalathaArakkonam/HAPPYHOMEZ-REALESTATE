@@ -87,7 +87,7 @@ cd HAPPYHOMEZ-REALESTATE
 ## 👩‍💻 Developer
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Name-Sneha%20Arakkonam-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Name-SNEHALATHA%20ARAKKONAM-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Tirupati%2C%20India-blue?style=for-the-badge" />
 </p>
 
